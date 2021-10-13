@@ -2,7 +2,7 @@
     <div class="layout">
         <header class="crazy-diamond"><slot name="header"></slot></header>
         <main class="dogs"><slot></slot></main>
-        <footer class="crazy-diamond"><slot name="footer"></slot></footer>
+        <footer class="brick-in-the-wall"><slot name="footer"></slot></footer>
     </div>
 </template>
 
